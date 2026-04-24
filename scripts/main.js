@@ -1,5 +1,5 @@
 const profile = {
-  name: 'Dra. Nombre Apellido',
+  name: 'Jazmín Arango Moreno',
   headline:
     'Psicóloga clínica | Bienestar emocional, acompañamiento terapéutico y crecimiento personal.',
   about:
